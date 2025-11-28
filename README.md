@@ -10,10 +10,10 @@
   <a href="https://github.com/sasrut">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hanasyasabrina@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/hanasya-shabrina-4b9836185/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
