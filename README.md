@@ -23,7 +23,7 @@
 
 ### 👩‍💻 About Me
 
-Hi there! I'm **Hanasya Shabrina**, a developer who loves turning lines of code into visual experiences. My main tools of choice is **Vue.js** ecosystem, and I enjoy building everything from e-commerce platforms to interactive web games.
+Hi there! I'm **Hanasya Shabrina**, you can call me **Sasa**, a developer who loves turning lines of code into visual experiences. My main tools of choice is **Vue.js** ecosystem, and I enjoy building everything from e-commerce platforms to interactive web games.
 
 * 🔭 I’m currently working on building seamless web applications with **Nuxt 3 & Tailwind CSS**.
 * 🎨 I love exploring the intersection of design and code.
